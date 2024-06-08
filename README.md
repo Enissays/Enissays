@@ -1,14 +1,3 @@
-- 👋 Hi, I’m @Enissays, a developper
-- 🌱 Currently learning : C, C++, Java, C#
-- 👀 Planning to learn : Rust
 
-Maybe i'll add some infos later here
-but for the moment
-have this birb
-...
-
-
-🐦
-
-
-...
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://images.alphacoders.com/127/1272156.jpg');]{x0000}$}
